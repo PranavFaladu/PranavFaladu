@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavfaladu&show_icons=true&locale=en" alt="pranavfaladu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavfaladu&" alt="pranavfaladu" /></p>
+
